@@ -23,7 +23,7 @@
 
   <header>
       <div id="hizala">
-          <h1>Crazy LEYLA</h1>
+          <h1>Hey YO!</h1>
           <h3>Everyone Wants To Eat Healthier and Fast Delivery</h3>
           <div id="headerSearch">
              
